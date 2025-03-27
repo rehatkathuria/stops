@@ -1,0 +1,46 @@
+"Camera Permissions" = "Dozvole za kameru";
+"Grant Permissions" = "Odobri Dozvole";
+"We require camera access to allow you to take photos. Tap the button below to get started" = "Potreban nam je pristup kameri da biste mogli da slikate. Kliknite na dugme ispod da biste nam dali dozvolu";
+
+// MARK: - Grain Overlay
+"Grainless" = "Bez zrna";
+"No grain will be present in the image" = "Zrna neće biti prisutna na slici";
+
+"Fine Grain" = "Fino zrno";
+"Subtle grain, procedurally generated similar to the kind found on analog film" = "Suptilno zrno, proceduralno generisano slično onome na analognom filmu";
+
+"Pronounced Grain" = "Izraženo zrno";
+"Coarse grain, procedurally generated similar to the kind found on analog film" = "Grubo zrno, proceduralno generisano slično onome na analognom filmu";
+
+// MARK: - Quantization Overlay
+"Chromatic" = "Hromatski";
+"Colour quantizations with stunning tonality and beautiful contrast" = "Kvantizacije boja sa zadivljujućom tonalitetom i prelepim kontrastom";
+
+"Monochrome" = "Monohromatski";
+"A mono representation with fine tonality that spans soft shadows and vivid highlights" = "Monohromatski prikaz sa finim tonalitetom koji obuhvata nežne senke i jake svetlosti";
+
+"Quirky" = "Čudno";
+"Quantizations that are reminiscent of \u{201C}happy accidents\u{201D}." = "Kvantizacije koje podsećaju na “sretne slučajnosti”";
+
+// MARK: - Colour Quantization Overlay
+"Folia" = "Folia";
+"Vivid green hues; particularly suited to photography with foliage" = "Žive zelene nijanse; posebno pogodne za fotografiju sa lišćem";
+
+"Supergold" = "Superzlatna";
+"Warm profile with a subtle contrast boost; best paired with a flash" = "Topli profil sa suptilnim povećanjem kontrasta; najbolje se uparuje sa blicem";
+
+"Tonachrome" = "Tonahrom";
+"Our base rendition with stunning tonality and beautiful colours" = "Naša osnovna interpretacija sa zadivljujućom tonalnošću i prelepim bojama";
+
+// MARK: - Aspect Ratio Overlay
+"3:2" = "3:2";
+"Popularised by 35mm film this format has a nostalgic feel to it" = "Popularizovan 35mm filmom, ovaj format ima nostalgičan osećaj";
+
+"4:3" = "4:3";
+"A popular format that matches the sensor on this phone" = "Popularni format koji se podudara sa senzorom na ovom telefonu";
+
+"5:4" = "5:4";
+"Most common in large format photography, this is one also used on Instagram" = "Najčešći u fotografiji velikog formata, ovaj format se takođe koristi na Instagramu";
+
+"1:1" = "1:1";
+"Famously used by Vivian Maier this format has a very distinctive look to it" = "Poznato korišćen od strane Vivian Maier, ovaj format ima vrlo prepoznatljiv izgled";

@@ -1,0 +1,22 @@
+"Gallery Permissions" = "ギャラリーの許可";
+"We require gallery permission to allow you to view and save photos. Tap the button below to get started" = "このアプリでは、特定の機能を有効にしたり、操作するために、ギャラリーへのアクセスを許可する必要があります。以下のボタンをタップしてください。";
+"Grant Permissions" = "許可する";
+
+
+// MARK: - Gallery Filter Overlay
+"Entire Library" = "ライブラリ全体";
+"The default album which includes every photo in your library" = "ライブラリにあるすべての写真を含むデフォルトのアルバム";
+
+"Selfies" = "セルフィー";
+"An album that includes every photo taken with the front-facing camera" = "前面カメラで撮影したすべての写真を含むアルバム";
+
+"Favourites" = "お気に入り";
+"An album filled with your favourite photographs, as marked by you" = "あなたがお気に入りに入れた写真でいっぱいのアルバム";
+
+
+// MARK: - Screenshots Overlay
+"Hide Screenshots" = "スクリーンショットを隠す";
+"When viewing the entire album or your favourites, screenshots will be hidden" = "アルバム全体やお気に入りを表示している場合に、スクリーンショットが非表示になります";
+
+"Show Screenshots" = "スクリーンショットを表示する";
+"Screenshots will be visible in albums that include them" = "スクリーンショットが含まれるアルバムでは、スクリーンショットが表示されます";

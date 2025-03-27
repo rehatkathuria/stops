@@ -1,0 +1,34 @@
+"Settings" = "Podešavanja";
+"Select the camera you would like the app to start with when launching from scratch" = "Odaberite kameru koju želite da aplikacija koristi pri pokretanju od nule";
+"Starting Camera: " = "Početna kamera: ";
+"Front" = "Prednja";
+"Back" = "Zadnja";
+"Reverse Camera Controls" = "Zamenite kontrole kamere";
+"Reverse the icon order to be the opposite direction of your language" = "Obrnite redosled ikona da bude suprotan smeru vašeg jezika";
+"Shutter" = "Okidač";
+"You can choose between using the viewfinder as a shutter or having a dedicated button" = "Možete birati između korišćenja tražila kao okidača ili imanja posvećenog dugmeta";
+"Dedicated Button" = "Posvećeno dugme";
+"Viewfinder" = "Tražilo";
+"Album" = "Album";
+"When saving photos, add them to an album named “Stops”" = "Kada sačuvate fotografije, dodajte ih u album pod imenom “Stops”";
+"Location" = "Lokacija";
+"Attach location metadata to captured images" = "Dodajte metapodatke o lokaciji snimljenim slikama";
+"Restore Purchases" = "Vrati kupovine";
+"Fetch and restore a previously purchased subscription from the App Store" = "Dohvati i vrati prethodno kupljenu pretplatu iz App Store-a";
+"Haptics" = "Haptika";
+"Enable subtle vibrations on button taps and animations" = "Omogući suptilne vibracije prilikom dodira dugmadi i animacija";
+"Rate App" = "Oceni aplikaciju";
+"Got five seconds and stars to spare? We'd really appreciate a review" = "Imate li pet sekundi i par zvezdica na raspolaganju? Stvarno bismo cenili vaše mišljenje";
+"Come say hello; we promise we don't post reels" = "Dođite da se pozdravimo; obećavamo da ne objavljujemo reels";
+"Previews of upcoming features and other updates" = "Nadolazeće funkcije i ostala ažuriranja";
+
+"Stops Pro" = "Stops Pro";
+"Stops Pro Explainer" = "Nadogradite da biste otključali druge ikone i dodatne profile različitih boja!";
+
+"Terms of Use" = "Uslovi korišćenja";
+"Terms of Use Explainer" = "Koristeći Stops, pristajete na standardne Uslove korišćenja koje je izdao Apple";
+"Privacy Policy" = "Politika privatnosti";
+"Privacy Policy Explainer" = "Stops ne prikuplja, ne prati ni ne prenosi nikakve lične podatke";
+
+"Localisation Header" = "Srpsko-Hrvatski";
+"Localisation Explainer" = "Ovu aplikaciju je lokalizovao Niko";

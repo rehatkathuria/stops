@@ -1,0 +1,21 @@
+"Gallery Permissions" = "Uprawnienia galerii";
+"We require gallery permission to allow you to view and save photos. Tap the button below to get started" = "Wymagamy dostępu do galerii, aby umożliwić przeglądanie i zapisywanie zdjęć. Naciśnij przycisk poniżej, aby kontynuować";
+"Grant Permissions" = "Zezwól";
+
+// MARK: - Gallery Filter Overlay
+"Entire Library" = "Cała biblioteka";
+"The default album which includes every photo in your library" = "Domyślny album zawierający wszystkie zdjęcia w bibliotece";
+
+"Selfies" = "Selfie";
+"An album that includes every photo taken with the front-facing camera" = "Album zawierający wszystkie zdjęcia wykonane przednim aparatem.";
+
+"Favourites" = "Ulubione";
+"An album filled with your favourite photographs, as marked by you" = "Album wypełniony twoimi ulubionymi zdjęciami, oznaczonymi przez ciebie";
+
+
+// MARK: - Screenshots Overlay
+"Hide Screenshots" = "Ukryj zrzuty ekranu";
+"When viewing the entire album or your favourites, screenshots will be hidden" = "Podczas przeglądania całego albumu lub ulubionych zrzuty ekranu będą ukryte";
+
+"Show Screenshots" = "Pokaż zrzuty ekranu";
+"Screenshots will be visible in albums that include them" = "Zrzuty ekranu będą widoczne w albumach, które je zawierają";

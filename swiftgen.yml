@@ -1,0 +1,39 @@
+input_dir: ./
+output_dir: ./
+
+fonts:
+  inputs: Aesthetics/Sources/Aesthetics/Resources
+  outputs:
+    templateName: swift5
+    params:
+      forceProvidesNamespaces: true
+      publicAccess: true
+    output: Aesthetics/Sources/Aesthetics/Fonts+Typesafe.swift
+
+xcassets:
+  inputs:
+    - Aesthetics/Sources/Aesthetics/Resources/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      params:
+        forceProvidesNamespaces: true
+        publicAccess: true
+      output: Aesthetics/Sources/Aesthetics/Assets+Typesafe.swift
+
+strings:
+  - inputs: Settings/Sources/Settings/Resources/en.lproj/Localizable.strings
+    outputs:
+      templateName: structured-swift5
+      output: Settings/Sources/Settings/StringsLocalized.swift
+  - inputs: CameraFeature/Sources/CameraFeature/Resources/en.lproj/Localizable.strings
+    outputs:
+      templateName: structured-swift5
+      output: CameraFeature/Sources/CameraFeature/StringsLocalized.swift
+  - inputs: GalleryFeature/Sources/GalleryFeature/Resources/en.lproj/Localizable.strings
+    outputs:
+      templateName: structured-swift5
+      output: GalleryFeature/Sources/GalleryFeature/StringsLocalized.swift
+  - inputs: Shopfront/Sources/Shopfront/Resources/en.lproj/Localizable.strings
+    outputs:
+      templateName: structured-swift5
+      output: Shopfront/Sources/Shopfront/StringsLocalized.swift

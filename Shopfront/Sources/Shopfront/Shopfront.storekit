@@ -1,0 +1,79 @@
+{
+  "identifier" : "78FD514B",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1663636345",
+    "_developerTeamID" : "TAG9VCMY36",
+    "_lastSynchronizedDate" : 706675608.56974995
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21306055",
+      "localizations" : [
+
+      ],
+      "name" : "Stops Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "6447444540",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "A monthly subscription for pro features",
+              "displayName" : "1 Month",
+              "locale" : "en_CA"
+            }
+          ],
+          "productID" : "com.eff.corp.aperture.pro.onemonthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro Monthly",
+          "subscriptionGroupID" : "21306055",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "19.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6447444529",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "A yearly subscription for pro features",
+              "displayName" : "12 Months",
+              "locale" : "en_CA"
+            }
+          ],
+          "productID" : "com.eff.corp.aperture.pro.oneyearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Pro Yearly",
+          "subscriptionGroupID" : "21306055",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

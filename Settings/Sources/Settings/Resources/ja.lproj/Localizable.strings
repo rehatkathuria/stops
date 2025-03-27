@@ -1,0 +1,34 @@
+"Settings" = "設定";
+"Select the camera you would like the app to start with when launching from scratch" = "アプリ起動時に立ち上がるカメラを選択してください";
+"Starting Camera: " = "既定のカメラ：";
+"Front" = "セルフィー";
+"Back" = "背面";
+"Reverse Camera Controls" = "カメラ操作の反転";
+"Reverse the icon order to be the opposite direction of your language" = "アイコンの並びを言語の逆方向にします";
+"Shutter" = "シャッター";
+"You can choose between using the viewfinder as a shutter or having a dedicated button" = "ビューファインダーをシャッターとして使うか、専用ボタンにするかを選べます";
+"Dedicated Button" = "専用ボタン";
+"Viewfinder" = "ビューファインダー";
+"Album" = "アルバム";
+"When saving photos, add them to an album named “Stops”" = "写真を「Stops」アルバムに保存します";
+"Location" = "位置情報";
+"Attach location metadata to captured images" = "撮影した写真に位置情報のメタデータを加えます";
+"Restore Purchases" = "購入の復元";
+"Fetch and restore a previously purchased subscription from the App Store" = "App Storeから過去に購入したサブスクリプションを取得・復元します";
+"Haptics" = "触覚";
+"Enable subtle vibrations on button taps and animations" = "ボタンタップ時のわずかなバイブレーションとアニメーションを有効にします";
+"Rate App" = "アプリの評価";
+"Got five seconds and stars to spare? We'd really appreciate a review" = "少し時間と星に余裕はありますか？レビューをいただけたらとても嬉しいです";
+"Come say hello; we promise we don’t post reels" = "約束します。リールは投稿しません。よろしくお願いします";
+"Previews of upcoming features and other updates" = "今後の機能のアップデートなどをお知らせします";
+
+"Stops Pro" = "Stops Pro";
+"Stops Pro Explainer" = "アップグレードして、アプリのカスタムアイコンと、追加のカメラフィルターをアンロックしよう！";
+
+"Terms of Use" = "利用規約";
+"Terms of Use Explainer" = "Stopsを使用することにより、Appleが発行する標準の利用規約に同意するものとします";
+"Privacy Policy" = "プライバシーポリシー";
+"Privacy Policy Explainer" = "Stopsは、いかなる個人データも収集、追跡、送信しません";
+
+"Localisation Header" = "にほんご";
+"Localisation Explainer" = "このアプリは、灰色ハイジの協力によって日本語にローカライズされました";

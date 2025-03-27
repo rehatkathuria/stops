@@ -1,0 +1,34 @@
+"Settings" = "Ustawienia";
+"Select the camera you would like the app to start with when launching from scratch" = "Wybierz aparat, który aplikacja ma uruchamiać na start";
+"Starting Camera: " = "Aparat startowy: ";
+"Front" = "Przód";
+"Back" = "Tył";
+"Reverse Camera Controls" = "Odwróć kolejność ikon";
+"Reverse the icon order to be the opposite direction of your language" = "Ikony na dole ekranu będą ułożone w drugą stronę";
+"Shutter" = "Migawka";
+"You can choose between using the viewfinder as a shutter or having a dedicated button" = "Możesz wybrać, co dotknąć, aby zrobić zdjęcie";
+"Dedicated Button" = "Przycisk";
+"Viewfinder" = "Wizjer";
+"Album" = "Album";
+"When saving photos, add them to an album named “Stops”" = "Podczas zapisywania zdjęć dodaj je do albumu o nazwie “Stops”";
+"Location" = "Lokalizacja";
+"Attach location metadata to captured images" = "Dołącz metadane lokalizacji do wykonanych zdjęć";
+"Restore Purchases" = "Przywracanie zakupów";
+"Fetch and restore a previously purchased subscription from the App Store" = "Pobierz i przywróć wcześniej zakupioną subskrypcję z App Store";
+"Haptics" = "Haptyczność";
+"Enable subtle vibrations on button taps and animations" = "Włącz subtelne wibracje podczas animacji i przy dotknięciu przycisków";
+"Rate App" = "Oceń aplikację";
+"Got five seconds and stars to spare? We'd really appreciate a review" = "Masz pięć sekund i gwiazdki do rozdania? Będziemy bardzo wdzięczni za recenzję";
+"Come say hello; we promise we don’t post reels" = "Chodź się przywitać; obiecujemy, że nie będziemy publikować rolek";
+"Previews of upcoming features and other updates" = "Zapowiedzi nadchodzących funkcji i innych aktualizacji";
+
+"Stops Pro" = "Stops Pro";
+"Stops Pro Explainer" = "Odblokuj dodatkowe ikony i profile kwantyzacji kolorów!";
+
+"Terms of Use" = "Warunki użytkowania";
+"Terms of Use Explainer" = "Korzystając z aplikacji Stops, wyrażasz zgodę na standardowe Zasady Użytkowania określone przez Apple";
+"Privacy Policy" = "Polityka prywatności";
+"Privacy Policy Explainer" = "Stops nie gromadzi, nie przetwarza ani nie przekazuje żadnych danych osobowych";
+
+"Localisation Header" = "Polski";
+"Localisation Explainer" = "Z tłumaczeniem na język lokalny pomagał Pugson";

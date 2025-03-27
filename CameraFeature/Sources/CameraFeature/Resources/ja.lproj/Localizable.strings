@@ -1,0 +1,46 @@
+"Camera Permissions" = "カメラの許可";
+"Grant Permissions" = "許可する";
+"We require camera access to allow you to take photos. Tap the button below to get started" = "このアプリでは、特定の機能を有効にしたり、操作するために、カメラへのアクセスを許可する必要があります。以下のボタンをタップしてください。";
+
+// MARK: - Grain Overlay
+"Grainless" = "粒子なし";
+"No grain will be present in the image" = "画像に粒子を加えません";
+
+"Fine Grain" = "細かい粒子";
+"Subtle grain, procedurally generated similar to the kind found on analog film" = "プロシージャルに生成された、アナログフィルムに見られるような微細な粒子";
+
+"Pronounced Grain" = "目立つ粒子";
+"Coarse grain, procedurally generated similar to the kind found on analog film" = "プロシージャルに生成された、アナログフィルムに見られるような粗い粒子";
+
+// MARK: - Quantization Overlay
+"Chromatic" = "クロマチック";
+"Colour quantizations with stunning tonality and beautiful contrast" = "鮮やかな階調と美しい色彩を備えた、基本の描写";
+
+"Monochrome" = "モノクロ";
+"A mono representation with fine tonality that spans soft shadows and vivid highlights" = "柔らかな陰影から鮮やかなハイライトまで、繊細な階調をもつモノクロ表現";
+
+"Quirky" = "ロモグラフィー";
+"Quantizations that are reminiscent of \u{201C}happy accidents\u{201D}." = "ちょっぴり楽しい。ひと癖ある。ムードメーカー。バブルガムにポップコーン。";
+
+// MARK: - Colour Quantization Overlay
+"Folia" = "フォリア";
+"Vivid green hues; particularly suited to photography with foliage" = "鮮やかな緑色の色合い。特に葉っぱの写真に適しています";
+
+"Supergold" = "スーパーゴールド";
+"Warm profile with a subtle contrast boost; best paired with a flash" = "暖かみのある色調に微かなコントラストの強調。フラッシュとの組み合わせが最適です";
+
+"Tonachrome" = "トナクローム";
+"Our base rendition with stunning tonality and beautiful colours" = "鮮やかな階調と美しい色彩を備えた、基本の描写";
+
+// MARK: - Aspect Ratio Overlay
+"3:2" = "3:2";
+"Popularised by 35mm film this format has a nostalgic feel to it" = "35mmフィルムに代表されるノスタルジックな雰囲気のフォーマット";
+
+"4:3" = "4:3";
+"A popular format that matches the sensor on this phone" = "この端末のセンサーに適した人気のあるフォーマット";
+
+"5:4" = "5:4";
+"Most common in large format photography, this is one also used on Instagram" = "大判写真で最も一般的で、Instagramでも使用されているフォーマット";
+
+"1:1" = "1:1";
+"Famously used by Vivian Maier this format has a very distinctive look to it" = "ヴィヴィアン・マイヤーが使用したことで知られる、非常に特徴的なフォーマット";

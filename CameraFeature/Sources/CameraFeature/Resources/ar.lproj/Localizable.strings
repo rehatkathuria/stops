@@ -1,0 +1,46 @@
+"Camera Permissions" = "السماح بالكاميرا";
+"Grant Permissions" = "منح السماح";
+"We require camera access to allow you to take photos. Tap the button below to get started" = "نحتاج إلى الوصول إلى الكاميرا للسماح لك بالتقاط الصور. اضغط على الزر للبدء.";
+
+// MARK: - Grain Overlay
+"Grainless" = "ناعم";
+"No grain will be present in the image" = "الصورة ستكون ناعمة";
+
+"Fine Grain" = "حُبَيبيّ";
+"Subtle grain, procedurally generated similar to the kind found on analog film" = "حُبَيْبات دقيقة، تتم بشكل تلقائي بطريقة تشبه تلك الموجودة في الأفلام الأنالوجية.";
+
+"Pronounced Grain" = "حُبَيبيّ كثيف";
+"Coarse grain, procedurally generated similar to the kind found on analog film" = "حُبَيْبات خشنة، تتم بشكل تلقائي بطريقة تشبه تلك الموجودة في الأفلام الأنالوجية.";
+
+// MARK: - Quantization Overlay
+"Chromatic" = "ملون";
+"Colour quantizations with stunning tonality and beautiful contrast" = "تقسيم الألوان مع تدرج لوني رائع وتباين جميل";
+
+"Monochrome" = "أحادي اللون";
+"A mono representation with fine tonality that spans soft shadows and vivid highlights" = "تمثيل أحادي اللون بتدرج لوني رائع يشمل الظلال الناعمة والإضاءات الحية.";
+
+"Quirky" = "منعشة";
+"Quantizations that are reminiscent of \u{201C}happy accidents\u{201D}." = "تقسيم الألوان يشبه الاحداث السعيدة";
+
+// MARK: - Colour Quantization Overlay
+"Folia" = "فوليا";
+"Vivid green hues; particularly suited to photography with foliage" = "درجات أخضر حية؛ مناسبة بشكل خاص للتصوير مع النباتات الخضراء";
+ 
+"Supergold" = "سوبرجولد";
+"Warm profile with a subtle contrast boost; best paired with a flash" = "تأثير دافئ مع زيادة تباين بسيط؛ يتماشى بشكل جيد مع الفلاش";
+
+"Tonachrome" = "توناكروم";
+"Our base rendition with stunning tonality and beautiful colours" = "تصوير أساسي لدينا بتدرج لوني رائع وألوان جميلة";
+
+// MARK: - Aspect Ratio Overlay
+"3:2" = "٣:٢";
+"Popularised by 35mm film this format has a nostalgic feel to it" = "شكل شائع في أفلام 35 ملم وله شعور بالحنين للماضي";
+
+"4:3" = "٤:٣";
+"A popular format that matches the sensor on this phone" = "شكل مشهور يتوافق مع مستشعر الهاتف الحالي";
+
+"5:4" = "٥:٤";
+"Most common in large format photography, this is one also used on Instagram" = "الشكل الأكثر شيوعاً في التصوير بالتنسيق الكبير، ويستخدم أيضاً في إنستجرام";
+
+"1:1" = "١:١";
+"Famously used by Vivian Maier this format has a very distinctive look to it" = "شكل مشهور استخدمته فيفيان ماير ويتميز بمظهر مميز للغاية.";

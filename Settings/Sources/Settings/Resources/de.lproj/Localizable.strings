@@ -1,0 +1,34 @@
+"Settings" = "Einstellungen";
+"Select the camera you would like the app to start with when launching from scratch" = "Wählen Sie die Kamera aus, mit der die App starten soll, wenn sie von Grund auf neu geöffnet wird";
+"Starting Camera: " = "Startkamera: ";
+"Front" = "Vorderseite";
+"Back" = "Rückseite";
+"Reverse Camera Controls" = "Umgekehrte Kamerasteuerungen";
+"Reverse the icon order to be the opposite direction of your language" = "Kehren Sie die Anordnung der Symbole um";
+"Shutter" = "Auslöser";
+"You can choose between using the viewfinder as a shutter or having a dedicated button" = "Sie können wählen, ob Sie den Sucher als Auslöser verwenden möchten oder ob Sie einen eigenen Button bevorzugen";
+"Dedicated Button" = "Eigener Button";
+"Viewfinder" = "Sucher";
+"Album" = "Album";
+"When saving photos, add them to an album named “Stops”" = "Beim Speichern von Fotos werden sie einem Album namens “Stops” hinzugefügt";
+"Location" = "Standort";
+"Attach location metadata to captured images" = "Füge den aufgenommenen Bildern Metadaten zum Standort hinzu";
+"Restore Purchases" = "Käufe wiederherstellen";
+"Fetch and restore a previously purchased subscription from the App Store" = "Stellen Sie ein zuvor über den App Store gekauftes Abonnement wieder her";
+"Haptics" = "Haptisches Feedback";
+"Enable subtle vibrations on button taps and animations" = "Aktivieren Sie dezente Vibrationen beim Drücken von Tasten und Animationen";
+"Rate App" = "App bewerten";
+"Got five seconds and stars to spare? We'd really appreciate a review" = "Haben Sie fünf Sekunden Zeit und ein paar Sterne übrig? Wir würden uns wirklich sehr über eine Bewertung freuen";
+"Come say hello; we promise we don’t post reels" = "Kommen Sie vorbei und sagen Sie Hallo; wir versprechen, keine Reels zu posten";
+"Previews of upcoming features and other updates" = "Previews kommender Features und anderer Updates";
+
+"Stops Pro" = "Stops Pro";
+"Stops Pro Explainer" = "Führen Sie ein Upgrade durch, um benutzerdefinierte Icons und zusätzliche Farbquantisierungsprofile freizuschalten";
+
+"Terms of Use" = "Nutzungsbedingungen";
+"Terms of Use Explainer" = "Bei der Verwendung von Stops stimmen Sie den standardmäßigen Nutzungsbedingungen von Apple zu";
+"Privacy Policy" = "Datenschutzerklärung";
+"Privacy Policy Explainer" = "Stops erhebt, verfolgt oder übermittelt keine persönlichen Daten";
+
+"Localisation Header" = "Deutsch";
+"Localisation Explainer" = "Diese App wurde lokalisiert mit der Hilfe von Maximilian Schulz";

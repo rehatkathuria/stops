@@ -1,0 +1,21 @@
+"Gallery Permissions" = "Gallery Permissions";
+"We require gallery permission to allow you to view and save photos. Tap the button below to get started" = "We require gallery permission to allow you to view and save photos. Tap the button below to get started";
+"Grant Permissions" = "Grant Permissions";
+
+// MARK: - Gallery Filter Overlay
+"Entire Library" = "Entire Library";
+"The default album which includes every photo in your library" = "The default album which includes every photo in your library";
+
+"Selfies" = "Selfies";
+"An album that includes every photo taken with the front-facing camera" = "An album that includes every photo taken with the front-facing camera";
+
+"Favourites" = "Favourites";
+"An album filled with your favourite photographs, as marked by you" = "An album filled with your favourite photographs, as marked by you";
+
+
+// MARK: - Screenshots Overlay
+"Hide Screenshots" = "Hide Screenshots";
+"When viewing the entire album or your favourites, screenshots will be hidden" = "When viewing the entire album or your favourites, screenshots will be hidden";
+
+"Show Screenshots" = "Show Screenshots";
+"Screenshots will be visible in albums that include them" = "Screenshots will be visible in albums that include them";

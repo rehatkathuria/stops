@@ -1,0 +1,34 @@
+"Settings" = "Settings";
+"Select the camera you would like the app to start with when launching from scratch" = "Select the camera you would like the app to start with when launching from scratch";
+"Starting Camera: " = "Starting Camera: ";
+"Front" = "Front";
+"Back" = "Back";
+"Reverse Camera Controls" = "Reverse Camera Controls";
+"Reverse the icon order to be the opposite direction of your language" = "Reverse the icon order to be the opposite direction of your language";
+"Shutter" = "Shutter";
+"You can choose between using the viewfinder as a shutter or having a dedicated button" = "You can choose between using the viewfinder as a shutter or having a dedicated button";
+"Dedicated Button" = "Dedicated Button";
+"Viewfinder" = "Viewfinder";
+"Album" = "Album";
+"When saving photos, add them to an album named “Stops”" = "When saving photos, add them to an album named “Stops”";
+"Location" = "Location";
+"Attach location metadata to captured images" = "Attach location metadata to captured images";
+"Restore Purchases" = "Restore Purchases";
+"Fetch and restore a previously purchased subscription from the App Store" = "Fetch and restore a previously purchased subscription from the App Store";
+"Haptics" = "Haptics";
+"Enable subtle vibrations on button taps and animations" = "Enable subtle vibrations on button taps and animations";
+"Rate App" = "Rate App";
+"Got five seconds and stars to spare? We'd really appreciate a review" = "Got five seconds and stars to spare? We'd really appreciate a review";
+"Come say hello; we promise we don’t post reels" = "Come say hello; we promise we don’t post reels";
+"Previews of upcoming features and other updates" = "Previews of upcoming features and other updates";
+
+"Stops Pro" = "Stops Pro";
+"Stops Pro Explainer" = "Upgrade to unlock custom icons and extra colour quantization profiles!";
+
+"Terms of Use" = "Terms of Use";
+"Terms of Use Explainer" = "Using Stops, you agree to the standard Terms of Use issued by Apple";
+"Privacy Policy" = "Privacy Policy";
+"Privacy Policy Explainer" = "Stops does not collect, track or transmit any personal data";
+
+"Localisation Header" = "English";
+"Localisation Explainer" = "This app was localised with the help of Rehat Kathuria";

@@ -1,0 +1,46 @@
+"Camera Permissions" = "Uprawnienia aparatu";
+"Grant Permissions" = "Zezwól";
+"We require camera access to allow you to take photos. Tap the button below to get started" = "Aby umożliwić robienie zdjęć, wymagamy dostępu do kamery. Naciśnij przycisk poniżej, by zacząć korzystać z aparatu.";
+
+// MARK: - Grain Overlay
+"Grainless" = "Przejrzyste";
+"No grain will be present in the image" = "Zdjęcie bez ziarnistości";
+
+"Fine Grain" = "Drobne Ziarno";
+"Subtle grain, procedurally generated similar to the kind found on analog film" = "Subtelne ziarno, generowane proceduralnie, podobne do tego, jakie można znaleźć na filmie analogowym";
+
+"Pronounced Grain" = "Wyraźne Ziarno";
+"Coarse grain, procedurally generated similar to the kind found on analog film" = "Duże ziarno, generowane proceduralnie, podobne do tego, jakie można znaleźć na filmie analogowym";
+
+// MARK: - Quantization Overlay
+"Chromatic" = "Chromatyczny";
+"Colour quantizations with stunning tonality and beautiful contrast" = "Kwantyzacja kolorów z imponującą tonalnością i świetnym kontrastem";
+
+"Monochrome" = "Monochrom";
+"A mono representation with fine tonality that spans soft shadows and vivid highlights" = "Reprezentacja mono z delikatną tonalnością, która łączy miękkie cienie i wyraziste rozświetlenia";
+
+"Quirky" = "Dziwaczny";
+"Quantizations that are reminiscent of \u{201C}happy accidents\u{201D}." = "Kwantyzacje, które przypominają “szczęśliwe przypadki”";
+
+// MARK: - Colour Quantization Overlay
+"Folia" = "Folia";
+"Vivid green hues; particularly suited to photography with foliage" = "Żywe odcienie zieleni; szczególnie pasuje do fotografii z roślinnością";
+
+"Supergold" = "Supergold";
+"Warm profile with a subtle contrast boost; best paired with a flash" = "Ciepły profil z subtelnym podbiciem kontrastu; najlepiej wygląda w połączeniu z lampą błyskową";
+
+"Tonachrome" = "Tonachrom";
+"Our base rendition with stunning tonality and beautiful colours" = "Nasza bazowa kompozycja z imponującą tonalnością i pięknymi kolorami";
+
+// MARK: - Aspect Ratio Overlay
+"3:2" = "3:2";
+"Popularised by 35mm film this format has a nostalgic feel to it" = "Spopularyzowany przez film 35mm, format ten ma nostalgiczny charakter";
+
+"4:3" = "4:3";
+"A popular format that matches the sensor on this phone" = "Popularny format, który odpowiada sensorowi w tym telefonie";
+
+"5:4" = "5:4";
+"Most common in large format photography, this is one also used on Instagram" = "Najczęściej spotykany w fotografii wielkoformatowej, jest również używany na Instagramie";
+
+"1:1" = "1:1";
+"Famously used by Vivian Maier this format has a very distinctive look to it" = "Słynny format używany przez Vivian Maier, ma bardzo charakterystyczny wygląd";

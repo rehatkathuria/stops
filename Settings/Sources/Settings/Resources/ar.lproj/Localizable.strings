@@ -1,0 +1,35 @@
+"Settings" = "إعدادات";
+"Select the camera you would like the app to start with when launching from scratch" = "اختر الكاميرا التي ترغب في أن يبدأ التطبيق بها عند البدء";
+"Starting Camera: " = "الكاميرا الافتراضية: ";
+"Front" = "الأمامية";
+"Back" = "الخلفية";
+"Reverse Camera Controls" = "عكس تحكم الكاميرا";
+"Reverse the icon order to be the opposite direction of your language" = "عكس ترتيب الأيقونات ليكون في الاتجاه المعاكس للغتك";
+"Shutter" = "زر الغالق";
+"You can choose between using the viewfinder as a shutter or having a dedicated button" = "يمكنك اختيار استخدام الباحث كزر للغالق أو وجود زر مخصص";
+"Dedicated Button" = "زر مخصص";
+"Viewfinder" = "الباحث";
+"Album" = "الألبوم";
+"When saving photos, add them to an album named “Stops”" = "عند حفظ الصور، أضفها إلى ألبوم بعنوان “Stops”";
+"Location" = "الموقع";
+"Attach location metadata to captured images" = "ربط بيانات الموقع بالصور الملتقطة";
+"Restore Purchases" = "استعادة المشتريات";
+"Fetch and restore a previously purchased subscription from the App Store" = "استرداد الاشتراك السابق الذي تم شراؤه من متجر التطبيقات";
+"Haptics" = "الاهتزازات";
+"Enable subtle vibrations on button taps and animations" = "تمكين اهتزازات خفيفة عند النقر على الأزرار والرسوم المتحركة";
+"Rate App" = "تقييم التطبيق";
+"Got five seconds and stars to spare? We'd really appreciate a review" = "هل لديك خمس ثوانٍ ونجوم لتخصيصها؟ سنقدر مراجعتك بشكل كبير";
+
+"Come say hello; we promise we don’t post reels" = "تعال قل مرحبًا؛ نعدك أننا لا ننشر مقاطع فيديو قصيرة";
+"Previews of upcoming features and other updates" = "معاينات الميزات القادمة والتحديثات الأخرى";
+
+"Stops Pro" = "ستوبس برو";
+"Stops Pro Explainer" = "قم بالترقية لفتح الرموز المخصصة وملفات تعديل الألوان الإضافية!";
+
+"Terms of Use" = "شروط الاستخدام";
+"Terms of Use Explainer" = "باستخدام ستوبس، فإنك توافق على شروط الاستخدام القياسية التي تصدرها شركة Apple";
+"Privacy Policy" = "سياسة الخصوصية";
+"Privacy Policy Explainer" = "ستوبس لا تقوم بجمع أو تتبع أو نقل أي بيانات شخصية";
+
+"Localisation Header" = "العربية";
+"Localisation Explainer" = "تمت ترجمة هذا التطبيق بمساعدة محمد سعيد";

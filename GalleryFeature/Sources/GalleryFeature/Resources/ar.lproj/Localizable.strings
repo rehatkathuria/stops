@@ -1,0 +1,21 @@
+"Gallery Permissions" = "السماح معرض الصور";
+"We require gallery permission to allow you to view and save photos. Tap the button below to get started" = "نحن بحاجة إلى إذن معرض الصور للسماح لك بعرض وحفظ الصور. اضغط على الزر أدناه للبدء.";
+"Grant Permissions" = "منح السماح";
+
+// MARK: - Gallery Filter Overlay
+"Entire Library" = "المكتبة بأكملها";
+"The default album which includes every photo in your library" = "الألبوم الافتراضي الذي يحتوي على كل صورة في مكتبتك.";
+
+"Selfies" = "السيلفي";
+"An album that includes every photo taken with the front-facing camera" = "ألبوم يتضمن كل صورة تم التقاطها باستخدام الكاميرا الأمامية.";
+
+"Favourites" = "المفضلة";
+"An album filled with your favourite photographs, as marked by you" = "ألبوم مليء بصورك المفضلة كما تم وضع علامة عليها من قبلك.";
+
+
+// MARK: - Screenshots Overlay
+"Hide Screenshots" = "إخفاء لقطات الشاشة";
+"When viewing the entire album or your favourites, screenshots will be hidden" = "عند عرض الألبوم بأكمله أو المفضلة الخاصة بك، ستتم إخفاء لقطات الشاشة.";
+
+"Show Screenshots" = "عرض لقطات الشاشة";
+"Screenshots will be visible in albums that include them" = "ستكون لقطات الشاشة مرئية في الألبومات التي تتضمنها.";

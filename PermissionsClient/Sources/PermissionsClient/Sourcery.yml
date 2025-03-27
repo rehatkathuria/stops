@@ -1,0 +1,7 @@
+sources:
+    - "."
+templates:
+    - "../../../Shared/Sources/Shared/Sourcery/AutoMockable.stencil"
+    - "../../../Shared/Sources/Shared/Sourcery/AutoNullable.stencil"
+output:
+    "./Generated"

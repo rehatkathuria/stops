@@ -1,0 +1,61 @@
+// swiftlint:disable all
+
+import Foundation
+
+{% if argument.importShared %}
+import Shared
+{% endif %}
+
+{% if argument.importPipeline %}
+import Pipeline
+{% endif %}
+
+#if canImport(AVFoundation)
+import AVFoundation
+#endif
+
+#if canImport(Combine)
+import Combine
+#endif
+
+#if canImport(ComposableArchitecture)
+import ComposableArchitecture
+#endif
+
+#if canImport(CoreImage)
+import CoreImage
+#endif
+
+#if canImport(FoundationNetworking)
+import FoundationNetworking
+#endif
+
+#if canImport(UIKit)
+import UIKit
+#endif
+
+{% macro defaultValueFor typeName optional type %}{% if optional %}nil{% elif typeName.isArray %}[]{% elif typeName.isDictionary == "Dictionary" %}[:]{% elif type.kind == "enum" %}.{{type.cases[0].name}}{% elif typeName.name == "AnyPublisher<Bool, Never>" %}Just(false).eraseToAnyPublisher(){% elif typeName.name == "CurrentValueSubject<User, Never>" %}.init(User()){% elif typeName.name == "CurrentValueSubject<Bool, Never>" %}.init(false){% elif typeName.isGeneric %}{{typeName}}(){% elif typeName.name == "Bool" %}false{% elif typeName.name == "String" %}""{% elif typeName.name == "Int" or typeName.name == "Float" %}0{% else %}{{typeName.name}}(){% endif %}{% endmacro %}
+{% macro mockMethod method %}
+{% if method.isInitializer %}
+    required {{ method.name }} {}
+{% else %}
+
+    public func {{ method.name }}{% if method.throws %} throws{% endif %}{% if not method.returnTypeName.isVoid %} -> {{ method.returnTypeName }}{% endif %} {
+        {% if not method.returnTypeName.isVoid %}
+        return {% call defaultValueFor method.returnTypeName method.isOptionalReturnType method.returnType %}
+        {% endif %}
+    }
+{% endif %}
+{% endmacro %}
+{% for type in types.protocols where type.based.AutoNullable or type|annotated:"AutoNullable" %}{% if type.name != "AutoNullable" %}
+public final class Null{{ type.name }}: {{ type.name }} {
+    public init() {}
+{% for variable in type.allVariables|!definedInExtension %}
+    public var {{ variable.name }}: {{ variable.typeName }} = {% call defaultValueFor variable.typeName variable.isOptional variable.type %}
+{% endfor %}
+{% for method in type.allMethods|!definedInExtension %}
+    {% call mockMethod method %}
+{% endfor %}
+}
+
+{% endif %}{% endfor %}

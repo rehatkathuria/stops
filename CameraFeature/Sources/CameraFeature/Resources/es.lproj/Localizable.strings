@@ -1,0 +1,46 @@
+"Camera Permissions" = "Permisos para usar la cámara";
+"Grant Permissions" = "Otorgar permisos";
+"We require camera access to allow you to take photos. Tap the button below to get started" = "Se necesita acceso a la cámara para poder sacar fotos. Pulsa el botón de abajo para empezar";
+
+// MARK: - Grain Overlay
+"Grainless" = "Sin granulado";
+"No grain will be present in the image" = "No habrá granos en la foto";
+
+"Fine Grain" = "Granulado fino";
+"Subtle grain, procedurally generated similar to the kind found on analog film" = "Granulado sutil, generado por procedimiento, similar al de las películas analógicas";
+
+"Pronounced Grain" = "Granulado pronunciado";
+"Coarse grain, procedurally generated similar to the kind found on analog film" = "Granulado grueso, generado por procedimiento, similar al de las películas analógicas";
+
+// MARK: - Quantization Overlay
+"Chromatic" = "Cromático";
+"Colour quantizations with stunning tonality and beautiful contrast" = "Cuantización del color con una tonalidad sorprendente y un bello contraste";
+
+"Monochrome" = "Monocromatico";
+"A mono representation with fine tonality that spans soft shadows and vivid highlights" = "Una representación mono con una tonalidad fina que abarca sombras suaves y luces vivas";
+
+"Quirky" = "Extravagante";
+"Quantizations that are reminiscent of \u{201C}happy accidents\u{201D}." = "Cuantizaciones que recuerdan a “accidentes felices”";
+
+// MARK: - Colour Quantization Overlay
+"Folia" = "Folia";
+"Vivid green hues;  particularly suited to photography with foliage" = "Tonos verdes vivos; especialmente adecuado para fotografía con follaje";
+
+"Supergold" = "Súper oro";
+"Warm profile with a subtle contrast boost; best paired with a flash" = "Perfil cálido con un sutil aumento del contraste; mejor con flash";
+
+"Tonachrome" = "Tonacromía";
+"Our base rendition with stunning tonality and beautiful colours" = "Nuestra variante de base con una tonalidad asombrosa y bellos colores";
+
+// MARK: - Aspect Ratio Overlay
+"3:2" = "3:2";
+"Popularised by 35mm film this format has a nostalgic feel to it" = "Popularizado por la película de 35 mm, este formato tiene un aire nostálgico";
+
+"4:3" = "4:3";
+"A popular format that matches the sensor on this phone" = "Un formato popular que coincide con el sensor de este teléfono";
+
+"5:4" = "5:4";
+"Most common in large format photography, this is one also used on Instagram" = "Más común en la fotografía de gran formato, también se utiliza en Instagram";
+
+"1:1" = "1:1";
+"Famously used by Vivian Maier this format has a very distinctive look to it" = "Famosamente utilizado por Vivian Maier, este formato tiene un aspecto muy característico";

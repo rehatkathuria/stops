@@ -1,0 +1,34 @@
+"Settings" = "Paramètres";
+"Select the camera you would like the app to start with when launching from scratch" = "Sélectionnez la caméra avec laquelle vous souhaitez que l'application démarre";
+"Starting Camera: " = "Caméra de départ: ";
+"Front" = "Avant";
+"Back" = "Arrière";
+"Reverse Camera Controls" = "Inverser les commandes de la caméra";
+"Reverse the icon order to be the opposite direction of your language" = "Inversez l'ordre des icônes pour qu'il soit dans la direction opposée à celle de votre langue";
+"Shutter" = "Obturateur";
+"You can choose between using the viewfinder as a shutter or having a dedicated button" = "Vous pouvez choisir entre utiliser le viseur comme obturateur ou avoir un bouton dédié";
+"Dedicated Button" = "Bouton dédié";
+"Viewfinder" = "Viseur";
+"Album" = "Album";
+"When saving photos, add them to an album named “Stops”" = "Enregistrez les photos dans un album nommé “Stops”";
+"Location" = "Location";
+"Attach location metadata to captured images" = "Attachez les données de localisation aux images capturées";
+"Restore Purchases" = "Restore Purchases";
+"Fetch and restore a previously purchased subscription from the App Store" = "restaurez votre abonnement précédemment acheté sur l'App Store";
+"Haptics" = "Haptique";
+"Enable subtle vibrations on button taps and animations" = "Activez des vibrations subtiles sur les boutons et les animations";
+"Rate App" = "Évaluez l'application";
+"Got five seconds and stars to spare? We'd really appreciate a review" = "Vous avez cinq secondes et des étoiles à donner ? Nous apprécierions vraiment une évaluation";
+"Come say hello; we promise we don’t post reels" = "Venez nous dire bonjour; nous vous promettons que nous ne postons pas de reels";
+"Previews of upcoming features and other updates" = "Aperçus des fonctionnalités à venir et autres mises à jour";
+
+"Stops Pro" = "Stops Pro";
+"Stops Pro Explainer" = "Abonnez-vous pour débloquer les icônes personnalisées et les profils de couleur supplémentaires!";
+
+"Terms of Use" = "Conditions d'utilisation";
+"Terms of Use Explainer" = "En utilisant Stops, vous acceptez les Conditions d'utilisation standard émises par Apple";
+"Privacy Policy" = "Politique de confidentialité";
+"Privacy Policy Explainer" = "Stops ne collecte, ne suit ni ne transmet aucune donnée personnelle";
+
+"Localisation Header" = "Français";
+"Localisation Explainer" = "Cette application a été localisée avec l'aide de Simon Gilliaux";

@@ -1,0 +1,20 @@
+"Gallery Permissions" = "Dozvole za galeriju";
+"We require gallery permission to allow you to view and save photos. Tap the button below to get started" = "Potrebna nam je dozvola za galeriju da biste mogli da pregledate i sačuvate fotografije. Kliknite na dugme ispod da biste započeli";
+"Grant Permissions" = "Daj Dozvole";
+
+// MARK: - Gallery Filter Overlay
+"Entire Library" = "Cela biblioteka";
+"The default album which includes every photo in your library" = "Podrazumevani album koji uključuje sve fotografije iz vaše biblioteke";
+
+"Selfies" = "Selfiji";
+"An album that includes every photo taken with the front-facing camera" = "Album koji uključuje sve fotografije snimljene prednjom kamerom";
+
+"Favourites" = "Favoriti";
+"An album filled with your favourite photographs, as marked by you" = "Album pun vaših omiljenih fotografija, kako ste ih obeležili";
+
+// MARK: - Screenshots Overlay
+"Hide Screenshots" = "Sakrij Snimke ekrana";
+"When viewing the entire album or your favourites, screenshots will be hidden" = "Kada gledate celi album ili vaše omiljene slike, snimci ekrana će biti sakriveni";
+
+"Show Screenshots" = "Prikaži Snimke ekrana";
+"Screenshots will be visible in albums that include them" = "Snimci ekrana će biti vidljivi u albumima koji ih imaju";

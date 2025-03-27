@@ -1,0 +1,21 @@
+"Gallery Permissions" = "Galerie Berechtigungen";
+"We require gallery permission to allow you to view and save photos. Tap the button below to get started" = "Wir benötigen die Berechtigung für die Galerie, um Ihnen das Anzeigen und Speichern von Fotos zu ermöglichen. Tippen Sie auf den Button unten, um zu beginnen";
+"Grant Permissions" = "Berechtigungen erteilen";
+
+// MARK: - Gallery Filter Overlay
+"Entire Library" = "Gesamte Bibliothek";
+"The default album which includes every photo in your library" = "Das Standardalbum, das alle Fotos in Ihrer Bibliothek enthält";
+
+"Selfies" = "Selfies";
+"An album that includes every photo taken with the front-facing camera" = "Ein Album, das alle Fotos enthält, die mit der Frontkamera aufgenommen wurden";
+
+"Favourites" = "Favourites";
+"An album filled with your favourite photographs, as marked by you" = "Ein Album mit Ihren Lieblingsfotos, die von Ihnen markiert wurden";
+
+
+// MARK: - Screenshots Overlay
+"Hide Screenshots" = "Bildschirmfotos ausblenden";
+"When viewing the entire album or your favourites, screenshots will be hidden" = "Beim Anzeigen des gesamten Albums oder Ihrer Favoriten werden Screenshots ausgeblendet";
+
+"Show Screenshots" = "Bildschirmfotos einblenden";
+"Screenshots will be visible in albums that include them" = "Screenshots werden in Alben sichtbar sein, in denen welche enthalten sind";
